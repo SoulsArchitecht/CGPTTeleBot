@@ -34,6 +34,19 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
+<!--		&lt;!&ndash; https://mvnrepository.com/artifact/com.github.pengrad/java-telegram-bot-api &ndash;&gt;
+		<dependency>
+			<groupId>com.github.pengrad</groupId>
+			<artifactId>java-telegram-bot-api</artifactId>
+			<version>8.1.0</version>
+		</dependency>-->
+		<!-- https://mvnrepository.com/artifact/org.telegram/telegrambots -->
+		<dependency>
+			<groupId>org.telegram</groupId>
+			<artifactId>telegrambots</artifactId>
+			<version>6.9.7.1</version>
+		</dependency>
+
 
 		<dependency>
 			<groupId>org.projectlombok</groupId>
