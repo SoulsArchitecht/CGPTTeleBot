@@ -12,8 +12,6 @@ import org.springframework.context.annotation.Configuration;
 public class BotConfig {
 
     private String name;
-
     private String key;
-
     private String ownerChatId;
 }
